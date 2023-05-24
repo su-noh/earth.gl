@@ -1366,6 +1366,7 @@ __metadata:
   dependencies:
     "@nx/js": 16.2.2
     "@nx/workspace": 16.2.2
+    "@webgpu/types": 0.1.32
     nx: 16.2.2
     nx-cloud: latest
     prettier: ^2.6.2
@@ -1693,6 +1694,13 @@ __metadata:
   version: 4.0.0
   resolution: "@types/parse-json@npm:4.0.0"
   checksum: fd6bce2b674b6efc3db4c7c3d336bd70c90838e8439de639b909ce22f3720d21344f52427f1d9e57b265fcb7f6c018699b99e5e0c208a1a4823014269a6bf35b
+  languageName: node
+  linkType: hard
+
+"@webgpu/types@npm:0.1.32":
+  version: 0.1.32
+  resolution: "@webgpu/types@npm:0.1.32"
+  checksum: 04c9a38d7f1f581b8c149bf5d383ac2e033b8eb8c76503855db3da64f411199e93a34d02a3e676e656b07b2b0b3e1ad43fb91e35b01e2a9d0a048394dbb58e99
   languageName: node
   linkType: hard
 
