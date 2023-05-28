@@ -14,7 +14,7 @@
     "skipLibCheck": true,
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
-    "typeRoots": [ "./node_modules/@webgpu/types", "./node_modules/@types"],
+    "typeRoots": ["./node_modules/@webgpu/types", "./node_modules/@types"],
     "paths": {}
   },
   "exclude": ["node_modules", "tmp"]
